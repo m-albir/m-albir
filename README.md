@@ -1,7 +1,7 @@
 # Hi there, I'm Mariam Albir 👋
 
 ## 🚀 About Me
-I am an aspiring software developer currently studying a Bachelors of Computer Science Advanced (Honours) at Monash University. I have been honing my skills in programming while also building my knowledge and experience in data structures, algorithms and software development (both front-end and back-end). Out of personal interest, I am pursuing a specialisation in data science and have worked on multiple projects where I have consolidated my skills in data wrangling and modelling and my knoweledge in machine learning. I am motivated by the prospect of applying all that I'll learn towards solving real-world problems and making a positive impact on people's lives. 
+I am an aspiring software developer currently studying a Bachelors of Computer Science Advanced (Honours) at Monash University. I have been honing my skills in programming while also building my knowledge and experience in data structures, algorithms and software development (both front-end and back-end). I am pursuing a specialisation in data science and have worked on multiple projects where I have consolidated my skills in data wrangling and modelling and my knoweledge in machine learning. I am motivated by the prospect of applying all that I'll learn towards solving real-world problems and making a positive impact on people's lives. 
 
 ## 🛠️ Technologies & Tools
 
